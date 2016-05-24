@@ -1,0 +1,10 @@
+{
+  "name": "timom/purge-cdn",
+  "description": "Purge Cache from KeyCDN",
+  "type": "wordpress-plugin",
+  "license": "proprietary",
+  "require": {
+    "php": ">=5.5",
+    "composer/installers": "~1.0.12"
+  }
+}
